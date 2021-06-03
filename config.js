@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Ối dòi ôi biết từ khi thấy em chụp ảnh rồi😂😂😂.biết trước luôn rồi',
     messDesc: 'Đấy a nói có sai đâu h em đang 60kg rồi hả.',
     btnAccept: 'Đúng rồi anh à',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://youtu.be/bHRteBGh2D8'
 }

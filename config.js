@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'KHÔNG',
     title: 'Phải chăng em đã và đang trên cái bước đường mập lên 😙',
     desc: 'Phải chăng em đã say thức ăn ngay từ lúc em chia tay ',
-    btnYes: 'Em đang mập như heo đây <33',
+    btnYes: 'Em đang mập như heo đây',
     btnNo: 'Không,em rất là thon gọn :3',
     question:'Vậy là em công nhận mình mập rồi nhá😂😂😂😂',
     btnReply: vậy là em công nhận rồi ',

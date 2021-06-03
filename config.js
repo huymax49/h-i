@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    introTitle: 'Mập à!',
+    introDesc: `Có phải em đang mập như heo không,mập mà lăn đi đc luôn rồi`,
+    btnIntro: 'KHÔNG',
+    title: 'Phải chăng em đã và đang trên cái bước đường mập lên 😙',
+    desc: 'Phải chăng em đã say thức ăn ngay từ lúc em chia tay ',
+    btnYes: 'Em đang mập như heo đây <33',
+    btnNo: 'Không,em rất là thon gọn :3',
+    question:'Vậy là em công nhận mình mập rồi nhá😂😂😂😂',
+    btnReply: vậy là em công nhận rồi ',
+    reply: 'Em đang trên bước đường đạt mốc 100kg',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Đấy a nói có sai đâu h em đang 60kg rồi hả.',
+    btnAccept: 'Đúng rồi anh à',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

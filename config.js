@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Mập à!',
+    introTitle: 'Vi Mập à!',
     introDesc: `Có phải em đang mập như heo không,mập mà lăn đi đc luôn rồi`,
     btnIntro: 'KHÔNG',
     title: 'Phải chăng em đã và đang trên cái bước đường mập lên 😙',
-    desc: 'Phải chăng em đã say thức ăn ngay từ lúc em chia tay ',
+    desc: 'Phải chăng em đã say say thức ăn ngay từ lúc em chia tay ',
     btnYes: 'Em đang mập như heo đây',
     btnNo: 'Không,em rất là thon gọn :3',
     question:'Vậy là em công nhận mình mập rồi nhá😂😂😂😂',

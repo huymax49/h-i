@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'okeyyy cậu ',
     btnNo: 'Không tớ không muốn ',
     question:'Vậy là cậu đồng ý rồi nhá😂😂😂😂',
-    btnReply: 'okeeyyy cậu tớ đồng ý',
+    btnReply: 'okeyyy cậu tớ đồng ý',
     reply: 'tớ đồng ý nhá ',
     mess: 'em cũng đang cần có 1 người quan tâm và canh cho ngủ 😂😂😂',
     messDesc: 'anh sẵn sàng em ạ .',

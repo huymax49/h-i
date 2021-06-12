@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'okeyyy cậu tớ đồng ý',
     reply: 'tớ đồng ý nhá ',
     mess: 'em cũng đang cần có 1 người quan tâm và canh cho ngủ 😂😂😂',
-    messDesc: 'anh sẵn sàng em ạ .',
-    btnAccept: 'okeyyy anh ',
+    messDesc: 'anh sẵn sàng em ạ.',
+    btnAccept: 'okeyyy anh ',                             
     messLink: 'https://youtu.be/0Xl02jNm4WQ'
 }

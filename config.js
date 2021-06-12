@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hí Dy dang hồ ',
-    introDesc: `nghe đồn là cậu có người yêu rồi hả 😂😂😂😂`,
+    introDesc: 'nghe đồn là cậu có người yêu rồi hả 😂😂😂😂',
     btnIntro: 'KHÔNG',
     title: 'Vậy cậu cho mình làm quen được không nhỉ😙',
     desc: 'xong sau đó mình thành người yêu nhỉ',
